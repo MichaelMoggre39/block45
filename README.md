@@ -68,9 +68,6 @@ Before running this project, make sure you have installed:
 
 ### 1. Clone the Repository
 
-```bash
-cd c:\Users\micha\Desktop\coursework\block45
-```
 
 ### 2. Backend Setup
 
@@ -250,6 +247,4 @@ MONGODB_URI=mongodb+srv://username:password@cluster.mongodb.net/loginapp?retryWr
 
 ISC
 
-## Author
 
-Coursework Project - Block 45
